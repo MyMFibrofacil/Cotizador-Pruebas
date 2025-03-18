@@ -1,5 +1,5 @@
 //Variables a actualizar
-Precio_simple=5236
+Precio_simple=5235
 //Precio_simple_calada=5655
 Precio_simple_sinsoga=4580
 Precio_doble=7965
